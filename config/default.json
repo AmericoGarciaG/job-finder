@@ -1,0 +1,15 @@
+{
+    "database": {
+      "user": "JooBF1ndrX0",
+      "host": "localhost",
+      "database": "jobs",
+      "password": "$1k1g41_JF$sep2024",
+      "port": 5432
+    },
+    "linkedin": {
+    "clientID": "867heta988mf92",
+    "clientSecret": "WPL_AP1.2pC8y5ptTCkBYJ9C.HZtbvQ==",
+    "redirectURI": "https://abc123.ngrok.io/auth/callback"
+  }
+
+}
